@@ -25,7 +25,7 @@ body {
 
 header {
     text-align: center;
-    margin: 90px auto 70px;
+    margin: 70px auto 70px;
     max-width: 600px;
 }
 
@@ -127,7 +127,7 @@ h3 {
 }
 
 .attribution {
-    margin: 10px auto;
+    margin-top: 30px;
     font-size: 8px; 
     text-align: center; 
 }
